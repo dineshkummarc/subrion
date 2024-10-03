@@ -3,8 +3,6 @@
 [![Semver compliant](https://img.shields.io/badge/Semver-2.0.0-yellow.svg)](http://semver.org/spec/v2.0.0.html)
 [![Join the chat at https://gitter.im/intelliants/subrion](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/intelliants/subrion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-
-
 ## What is Subrion?
 
 * Subrion is a **Content Management System** (CMS) which allows you to build websites for any purpose. Yes, from blog to corporate mega portal.
